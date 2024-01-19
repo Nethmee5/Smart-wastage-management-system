@@ -2,6 +2,11 @@
 <p>1.Giving a notification to the garbage collector to inform the dustbins were filled by the mobile app.</p>
 <p>2.Giving the humidity level of the filled garbage, the total amount of garbage in a dustbin, and an each unique dustbin number by the web app and mobile app.</p>
 <p>3.Showing the locations of the filled dustbins on a map by web and mobile apps.</p>
+Technologies used:-
+ <p>Front end - Flutter framework</p>
+  <p> Back end- Flutter framework</p>
+   <p> Database - Firebase</p>
+    <p>Graphics/UI design-Adobe XD/Figma</p>
 
 
 
